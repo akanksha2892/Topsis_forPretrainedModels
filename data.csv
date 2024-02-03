@@ -1,0 +1,12 @@
+Model,Rouge_Scores,Length_of_Summary,Training_Time
+BERTSumAbs,0.79,135,10
+GPT-2,0.81,145,11
+DistilBERT,0.76,130,9
+BARTLarge,0.83,155,14
+CTRL,0.77,140,10
+BERTExtractive,0.74,125,8
+BERTSumExt,0.75,130,9
+T5,0.78,140,10
+Pegasus,0.79,138,13
+XLNet,0.76,135,11
+BART,0.80,145,8
